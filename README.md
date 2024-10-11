@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a first year Computer Science major at University of San Fransciso. 
 <!--
 **azelalem/azelalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
